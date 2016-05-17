@@ -1,0 +1,28 @@
+name: Andreas Appolt
+favicon: null
+layout_spectrum: 0.27796194050461054
+typography_spectrum: 0.5761791400145739
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.45538284140639007
+  lightness: 0.4443099210038781
+  saturation: 0.9520076038315892
+  rhythmicContrast: 0.6073959425557405
+purpose: []
