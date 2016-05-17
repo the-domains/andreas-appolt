@@ -1,7 +1,7 @@
 name: Andreas Appolt
 favicon: null
-layout_spectrum: 0.27796194050461054
-typography_spectrum: 0.5761791400145739
+layout_spectrum: 0.50346
+typography_spectrum: 0.18021
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.45538284140639007
+  brandStrength: 0.4375
   lightness: 0.4443099210038781
   saturation: 0.9520076038315892
   rhythmicContrast: 0.6073959425557405
